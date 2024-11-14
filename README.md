@@ -6,3 +6,5 @@ I'm Alexander Wassbjer a Frontend Developer from Sweden.
 ## :technologist: Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,sass,ts,aws,docker,express,figma,firebase,gcp,heroku,netlify,nextjs,postgres,nodejs,cloudflare,cypress,prisma,tailwind,terraform,vitest,wordpress)](https://alexanderwassbjer.se)
+
+[![An image of @alexanderwassbjer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alexanderwassbjer)](https://holopin.io/@alexanderwassbjer)
